@@ -1,4 +1,4 @@
-# Blue Prism Exceptions PArser
+# Blue Prism Exceptions Parser
 
 A tool which extracts all the exceptions implemented in a Blue Prism robot. 
 
@@ -29,7 +29,7 @@ The parser works ONLY with BPRELEASE files.
 
 ## Authors
 
-* **Asad Zia** - *Initial work* - [PurpleBooth](https://github.com/asadzia)
+* **Asad Zia**
 
 ## License
 
