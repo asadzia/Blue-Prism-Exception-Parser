@@ -1,0 +1,10 @@
+c:\users\asad.zia\documents\visual studio 2015\Projects\BP_XML_ExceptionsParser\BP_XML_ExceptionsParser\obj\Debug\BP_XML_ExceptionsParser.csprojResolveAssemblyReference.cache
+c:\users\asad.zia\documents\visual studio 2015\Projects\BP_XML_ExceptionsParser\BP_XML_ExceptionsParser\bin\Debug\BP_XML_ExceptionsParser.exe
+c:\users\asad.zia\documents\visual studio 2015\Projects\BP_XML_ExceptionsParser\BP_XML_ExceptionsParser\bin\Debug\BP_XML_ExceptionsParser.pdb
+c:\users\asad.zia\documents\visual studio 2015\Projects\BP_XML_ExceptionsParser\BP_XML_ExceptionsParser\obj\Debug\BP_XML_ExceptionsParser.exe
+c:\users\asad.zia\documents\visual studio 2015\Projects\BP_XML_ExceptionsParser\BP_XML_ExceptionsParser\obj\Debug\BP_XML_ExceptionsParser.pdb
+c:\users\asad.zia\documents\visual studio 2015\Projects\BP_XML_ExceptionsParser\BP_XML_ExceptionsParser\bin\Debug\BP_XML_ExceptionsParser.exe.manifest
+c:\users\asad.zia\documents\visual studio 2015\Projects\BP_XML_ExceptionsParser\BP_XML_ExceptionsParser\bin\Debug\BP_XML_ExceptionsParser.application
+c:\users\asad.zia\documents\visual studio 2015\Projects\BP_XML_ExceptionsParser\BP_XML_ExceptionsParser\obj\Debug\BP_XML_ExceptionsParser.TrustInfo.xml
+c:\users\asad.zia\documents\visual studio 2015\Projects\BP_XML_ExceptionsParser\BP_XML_ExceptionsParser\obj\Debug\BP_XML_ExceptionsParser.exe.manifest
+c:\users\asad.zia\documents\visual studio 2015\Projects\BP_XML_ExceptionsParser\BP_XML_ExceptionsParser\obj\Debug\BP_XML_ExceptionsParser.application
