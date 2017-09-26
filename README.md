@@ -19,6 +19,10 @@ The parser works ONLY with BPRELEASE files.
 - Open Command propmt in windows.
 - Go to the directory where the executable is residing.
 - Provide an argument to the executable between qutoes which is equivalent to the FULL path of the BPRELEASE file.
+- Command Line Invocation:
+```
+$> <Executable File> <BPRELEASE File Full Path>
+```
 - Two files will be generated; one for objects and one for processes which will list the details for all exceptions in the robot.
 
 ## Built With
